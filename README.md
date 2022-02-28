@@ -6,3 +6,6 @@ Supervised Learning with less features, to understand the working of Machine Lea
 
 Train and test dataset csv files has been provided and initially downloaded from kaggle.
 
+
+![download (3)](https://user-images.githubusercontent.com/41074452/156027937-61efda34-d193-4581-b3ae-92cb34911a68.png)
+
